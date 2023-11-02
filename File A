@@ -1,4 +1,8 @@
 /* sample 1 */
+<<<<<<< HEAD
 first change
 second change
 unstaginggit 
+=======
+changes added to this file 123
+>>>>>>> master
